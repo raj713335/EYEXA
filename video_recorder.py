@@ -5,7 +5,6 @@ import pyautogui
 
 
 def start():
-    print("123")
 
     output = "OUTPUT/video.avi"
     img = pyautogui.screenshot()
