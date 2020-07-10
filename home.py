@@ -45,8 +45,9 @@ def display():
 
         def __init__(self, win):
 
+            
+            
             screen_widthx = win.winfo_screenwidth()
-
             screen_heightx = win.winfo_screenheight()
 
 
@@ -61,6 +62,9 @@ def display():
             img.image = render
             img.place(x=-1, y=0)
 
+            
+            
+            
             load = cv2.imread('IMAGES/eyexa.png', 1)
             cv2imagex1 = cv2.cvtColor(load, cv2.COLOR_BGR2RGBA)
             load = Image.fromarray(cv2imagex1)
@@ -96,7 +100,6 @@ def display():
 
             def start_recording():
 
-
                 pass
 
 
@@ -107,9 +110,7 @@ def display():
 
 
             style = Style()
-            style.configure('TButton', font=
-            ('calibri', 20, 'bold'),
-                            borderwidth='4')
+            style.configure('TButton', font=('calibri', 20, 'bold'),borderwidth='4')
 
             # Changes will be reflected
             # by the movement of mouse.
@@ -121,11 +122,6 @@ def display():
 
             self.b4 = ttk.Button(win, width=20, command=stop_recording)
             self.b4.place(x=1320, y=150, width=45, height=50)
-
-
-
-
-
 
 
 
