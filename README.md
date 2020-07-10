@@ -19,7 +19,7 @@ $ cd EYEXA
 ```
 
 
-## Download The YOLOV3 Trained Model From the Following link and Save the file inside ./Model Directory
+### Download The YOLOV3 Trained Model From the Following link and Save the file inside ./Model Directory
 
 $ url : https://pjreddie.com/media/files/yolov3.weights
 
@@ -27,7 +27,7 @@ $ url : https://pjreddie.com/media/files/yolov3.weights
 
 
 
-## Install tensorflow and all the other required libraries 
+### Install tensorflow and all the other required libraries 
 
 ```sh
 $ pip install tensorflow
@@ -39,7 +39,7 @@ $ pip install imutils
 $ pip install numpy
 ```
 
-## List of Python packages taht are being used in the Application
+### List of Python packages taht are being used in the Application
 
 ```sh
 from tkinter import *
@@ -75,7 +75,7 @@ from threading import Thread
 from video_recorder import start```
 
 
-## To run the Application
+### To run the Application
 
 
 ```sh
@@ -85,6 +85,6 @@ $ python EYEXA.py
 
 
 
-## A Histogram Graph of the mask_detector.model based on mobilenet_v2
+### A Histogram Graph of the mask_detector.model based on mobilenet_v2
 
 ![](Model/Model.png)
