@@ -1,5 +1,5 @@
 # EYEXA
-A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing Tracking.
+A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing to avoid the spread of the virus.
 
 
 <p align="center">
