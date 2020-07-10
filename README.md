@@ -95,7 +95,8 @@ import os
 import math
 from main import mainc
 from threading import Thread
-from video_recorder import start```
+from video_recorder import start
+```
 
 
 ### To run the Application
