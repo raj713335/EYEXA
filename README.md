@@ -26,6 +26,18 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 
+
+### SAMPLE IMAGES
+<p align="center">
+    <img src="DEMO/1.png", width="420">
+    <img src="DEMO/2.png"g", width="420">
+    <img src="DEMO/3.png"", width="420">
+    <br>
+    <sup>1.Social Distancing Violation but Mask are on (Left) 2.Social Distancing Violation and Mask are off(center)3. All Ok (Right)</sup>
+</p>
+
+
+
 ### Download The EXE Version of the Software from GOOGLE DRIVE LINK
 
 $ url : https://drive.google.com/drive/folders/15RZ0z6vU0P1gJg6QFXn7WegxYJEnjBdk
