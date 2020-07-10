@@ -2,11 +2,18 @@
 A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing Tracking.
 
 
+<p align="center">
+    <img src="IMAGES/frong.gif", width="480">
+    <br>
+    <sup>Authors <a href="https://www.linkedin.com/in/arnab-das-732515143" target="_blank">Loading ...</a></sup>
+</p>
+
+
 
 <p align="center">
-    <img src="IMAGES/front.gif", width="480">
+    <img src="IMAGES/exeya.png", width="480">
     <br>
-    <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Gines Hidalgo</a> (left) and <a href="https://jhugestar.github.io" target="_blank">Hanbyul Joo</a> (right) in front of the <a href="http://domedb.perception.cs.cmu.edu" target="_blank">CMU Panoptic Studio</a></sup>
+    <sup>Authors <a href="https://www.linkedin.com/in/arnab-das-732515143" target="_blank">Arnab Das</a></sup>
 </p>
 
 
@@ -95,10 +102,10 @@ $ python EYEXA.py
 
 ### A Histogram Graph of the mask_detector.model based on mobilenet_v2
 
-![](Model/Model.png)
+
 
 <p align="center">
-    <img src="Model/Model.png", width="480">
+    <img src="Model/Model.png", width="640">
     <br>
     <sup>TRAINING of Model mask_detector.model Histogram</sup>
 </p>
