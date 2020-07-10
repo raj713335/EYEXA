@@ -3,7 +3,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 <p align="center">
-    <img src="IMAGES/frong.gif", width="480">
+    <img src="IMAGES/front.gif", width="480">
     <br>
     <sup>Authors <a href="https://www.linkedin.com/in/arnab-das-732515143" target="_blank">Loading ...</a></sup>
 </p>
@@ -11,7 +11,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 <p align="center">
-    <img src="IMAGES/exeya.png", width="480">
+    <img src="IMAGES/eyexa.png", width="480">
     <br>
     <sup>Authors <a href="https://www.linkedin.com/in/arnab-das-732515143" target="_blank">Arnab Das</a></sup>
 </p>
