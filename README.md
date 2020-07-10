@@ -3,6 +3,14 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 
+<p align="center">
+    <img src="IMAGES/front.gif", width="480">
+    <br>
+    <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Gines Hidalgo</a> (left) and <a href="https://jhugestar.github.io" target="_blank">Hanbyul Joo</a> (right) in front of the <a href="http://domedb.perception.cs.cmu.edu" target="_blank">CMU Panoptic Studio</a></sup>
+</p>
+
+
+
 ### Download The EXE Version of the Software from GOOGLE DRIVE LINK
 
 $ url : https://drive.google.com/drive/folders/15RZ0z6vU0P1gJg6QFXn7WegxYJEnjBdk
