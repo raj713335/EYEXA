@@ -31,7 +31,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 <p align="center">
     <img src="DEMO/sample.gif", width="800">
     <br>
-    <sup><a href="https://github.com/raj713335/EYEXA" target="_blank">*EYEXA*</a></sup>
+    <sup><a href="https://github.com/raj713335/EYEXA" target="_blank"><strong>EYEXA</strong></a></sup>
 </p>
 
 
