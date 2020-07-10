@@ -5,7 +5,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 <p align="center">
     <img src="IMAGES/front.gif", width="480">
     <br>
-    <sup><a href="https://www.linkedin.com/in/arnab-das-732515143" target="_blank">Loading ...</a></sup>
+    <sup>Loading ....</sup>
 </p>
 
 
