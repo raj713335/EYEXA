@@ -122,10 +122,11 @@ def mainx():
 
 
         def store_INI(self):
-
+            
             window.destroy()
-
             mainc()
+            
+            
 
 
     window = Tk()
@@ -145,8 +146,7 @@ def mainx():
 if __name__ == '__main__':
     Thread(target=mainx).start()
     Thread(target=start).start()
-
-
+    
     #display()
 
 
