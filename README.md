@@ -11,6 +11,11 @@ $ cd EYEXA
 ```
 
 
+## Download The YOLOV3 Trained Model From the Following link and Save the file inside ./Model Directory
+
+$ url : https://pjreddie.com/media/files/yolov3.weights
+
+
 
 
 
@@ -60,3 +65,18 @@ import math
 from main import mainc
 from threading import Thread
 from video_recorder import start```
+
+
+## To run the Application
+
+
+```sh
+$ cd EYEXA
+$ python EYEXA.py
+```
+
+
+
+## A Histogram Graph of the mask_detector.model based on mobilenet_v2
+
+![](./Model/Model.jpg)
