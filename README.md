@@ -3,7 +3,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 
-## Download The EXE Version of the Software from GOOGLE DRIVE LINK
+### Download The EXE Version of the Software from GOOGLE DRIVE LINK
 
 $ url : https://drive.google.com/drive/folders/15RZ0z6vU0P1gJg6QFXn7WegxYJEnjBdk
 
@@ -11,7 +11,7 @@ $ url : https://drive.google.com/drive/folders/15RZ0z6vU0P1gJg6QFXn7WegxYJEnjBdk
 
 
 
-## Getting Started
+### Getting Started
 - Clone the repo and cd into the directory
 ```sh
 $ git clone https://github.com/raj713335/EYEXA.git
