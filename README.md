@@ -79,4 +79,4 @@ $ python EYEXA.py
 
 ## A Histogram Graph of the mask_detector.model based on mobilenet_v2
 
-![](Model/Model.jpg)
+![](Model/Model.png)
