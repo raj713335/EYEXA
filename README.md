@@ -24,6 +24,15 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
     <sup>START SCREEN</sup>
 </p>
 
+### MASK DETECTION RESULT
+
+<p align="center">
+    <img src="DEMO/mask_detection.gif", width="800">
+    <br>
+    <sup><a href="https://github.com/raj713335/EYEXA" target="_blank"><strong>EYEXA</strong></a></sup>
+</p>
+
+
 
 
 ### SAMPLE RESULT
