@@ -161,7 +161,7 @@ Code for automatically measuring the temperature of people using a thermal camer
 The software can be freely used for any non-commercial applications and it is useful
 for the automatic early-screening of fever symptoms.
 
-![sample](./DEMO/future.jpg)
+![sample](DEMO/future.jpg)
 
 
 
