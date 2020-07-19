@@ -141,6 +141,14 @@ $ cd EYEXA
 $ python EYEXA.py
 ```
 
+## CODE STRUCTURE
+
+<p align="center">
+    <img src="DEMO/structure.png", width="640">
+    <br>
+    <sup></sup>
+</p>
+
 
 
 ### A Histogram Graph of the mask_detector.model based on mobilenet_v2
