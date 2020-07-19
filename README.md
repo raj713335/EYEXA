@@ -149,3 +149,33 @@ $ python EYEXA.py
     <br>
     <sup>TRAINING of Model mask_detector.model Histogram</sup>
 </p>
+
+
+## FUTURE ACTIONS
+
+
+### TO ADD TEMPERATURE DETECTION IN THE EXISTING SYSTEM
+
+# :thermometer: AiThermometer :thermometer:
+Code for automatically measuring the temperature of people using a thermal camera.
+The software can be freely used for any non-commercial applications and it is useful
+for the automatic early-screening of fever symptoms.
+
+![sample](./DEMO/future.jpg)
+
+
+
+
+
++ We are maintaining [list of supported cameras](#tested-hardware). Please feel free to contribute.
+
++ New code for acquiring and processing data streams from FLIR<sup>&reg;</sup> cameras in the folder [FLIR_cameras](FLIR_cameras).  
+
+
+## Description
+The software first detect people with an off-the-shelf body pose detector and then extract location of the face where the temperature is measured. The software requires a known reference temperature and the value and position are provided by the user (this information is shown as a single small green circle on the image). It is possible to have the absolute temperature but you need an image from a thermal camera with correct radiometric calibration and radiometric exif data loaded into image.
+
+## Tested hardware
++  FLIR<sup>&reg;</sup> A600
++  FLIR<sup>&reg;</sup> A315
+
