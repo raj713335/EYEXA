@@ -1,5 +1,5 @@
 # EYEXA
-A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing to avoid the spread of the virus.
+A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing to avoid the spread of the Covid 19 virus for TATA INNOVERSE SolverHunt 8.
 
 
 <p align="center">
@@ -24,7 +24,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
     <sup>START SCREEN</sup>
 </p>
 
-### MASK DETECTION RESULT
+## MASK DETECTION RESULT
 
 <p align="center">
     <img src="DEMO/mask_detection.gif", width="800">
@@ -35,7 +35,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 
-### SAMPLE RESULT
+## SAMPLE RESULT
 
 <p align="center">
     <img src="DEMO/sample.gif", width="800">
@@ -44,7 +44,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 </p>
 
 
-### WORKING CODE
+## WORKING CODE
 
 <p align="center">
     <img src="DEMO/Working.gif", width="800">
@@ -55,7 +55,7 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 
-### SAMPLE IMAGES
+## SAMPLE IMAGES
 <p align="center">
     <img src="DEMO/1.png", width="400">
     <img src="DEMO/2.png"g", width="400">
@@ -63,12 +63,6 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
     <br>
     <sup>1.Social Distancing Violation but Mask are on (Left) 2.Social Distancing Violation and Mask are off(Right)3. All Ok (Down)</sup>
 </p>
-
-
-
-### Download The EXE Version of the Software from GOOGLE DRIVE LINK
-
-$ url : https://drive.google.com/drive/folders/15RZ0z6vU0P1gJg6QFXn7WegxYJEnjBdk
 
 
 
