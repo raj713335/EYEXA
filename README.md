@@ -161,15 +161,18 @@ Code for automatically measuring the temperature of people using a thermal camer
 The software can be freely used for any non-commercial applications and it is useful
 for the automatic early-screening of fever symptoms.
 
-![sample](DEMO/future.jpg)
+
+
+<p align="center">
+    <img src="DEMO/Future.jpg", width="600">
+    <br>
+    <sup></sup>
+</p>
 
 
 
 
 
-+ We are maintaining [list of supported cameras](#tested-hardware). Please feel free to contribute.
-
-+ New code for acquiring and processing data streams from FLIR<sup>&reg;</sup> cameras in the folder [FLIR_cameras](FLIR_cameras).  
 
 
 ## Description
