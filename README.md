@@ -60,8 +60,9 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
     <img src="DEMO/1.png", width="400">
     <img src="DEMO/2.png"g", width="400">
     <img src="DEMO/3.png"", width="400">
+    <img src="DEMO/4.png"", width="400">
     <br>
-    <sup>1.Social Distancing Violation but Mask are on (Left) 2.Social Distancing Violation and Mask are off(Right)3. All Ok (Down)</sup>
+    <sup>1.Social Distancing Violation but Mask are on (Left) 2.Social Distancing Violation and Mask are off(Right)3 and 4. All Ok (Down Left/Right)</sup>
 </p>
 
 
