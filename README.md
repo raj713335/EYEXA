@@ -11,13 +11,11 @@ If any of the two above criteria fails then its alerts a user concerned with a w
 EYEXA performs two primary functions using multi threading , OpenCV and ML
 
 
-      1.  EYEXA uses yolov3 model to track a person and then does various internal computations to check all 
-    the person in the frame are maintaining a proper social distancing 
-    norms or not . and display the number of person violating the social distancing norms.
+      1.  EYEXA uses yolov3 model to track a person and then does various internal computations to check all the person in the frame are maintaining
+    a proper social distancing norms or not . and display the number of person violating the social distancing norms.
       
-      2.  EYEXA uses an custom trained model based on MobileNetV2 to train on images of person wearing/not_wearing a mask , 
-    and predict the person in the camera feed is wearing a mask or not . It also uses a res10_300x300_sad_iter_140000.caffemodel 
-    to focus on person face during the prediction.
+      2.  EYEXA uses an custom trained model based on MobileNetV2 to train on images of person wearing/not_wearing a mask , and predict the person in 
+    the camera feed is wearing a mask or not . It also uses a res10_300x300_sad_iter_140000.caffemodel to focus on person face during the prediction.
 
 
 
