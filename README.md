@@ -187,8 +187,9 @@ $ python EYEXA.py
 ### TO ADD TEMPERATURE DETECTION IN THE EXISTING SYSTEM
 
 # :thermometer: AiThermometer :thermometer:
-Code for automatically measuring the temperature of people using a thermal camera.
-The software can be freely used for any non-commercial applications and it is useful
+# :sun: AiThermometer :sun:
+Code creation in progress for automatically measuring the temperature of people using a thermal camera.
+The software can be freely used for any creating applications that it is useful
 for the automatic early-screening of fever symptoms.
 
 
