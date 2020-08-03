@@ -62,6 +62,22 @@ EYEXA performs two primary functions using multi threading , OpenCV and ML
 </p>
 
 
+<p align="center">
+    <img src="DEMO/7.gif", width="800">
+    <br>
+    <sup><a href="https://github.com/raj713335/EYEXA" target="_blank"><strong>EYEXA</strong></a></sup>
+</p>
+
+
+
+<p align="center">
+    <img src="DEMO/6.gif", width="800">
+    <br>
+    <sup><a href="https://github.com/raj713335/EYEXA" target="_blank"><strong>EYEXA</strong></a></sup>
+</p>
+
+
+
 ## WORKING CODE
 
 <p align="center">
