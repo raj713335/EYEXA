@@ -218,7 +218,7 @@ for the automatic early-screening of fever symptoms.
 
 
 <p align="center">
-    <img src="DEMO/social-distancing.jpg", width="600">
+    <img src="DEMO/social-distancing.gif", width="600">
     <br>
     <sup></sup>
 </p>
