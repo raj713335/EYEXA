@@ -118,17 +118,6 @@ def mainc():
 
 	face_detector_caffe=base_dir+'/face_detector/res10_300x300_ssd_iter_140000.caffemodel'
 
-	# construct the argument parser and parse the arguments
-	# ap = argparse.ArgumentParser()
-	# ap.add_argument("-f", "--face", type=str,
-	# 	default="face_detector",
-	# 	help="path to face detector model directory")
-	# ap.add_argument("-m", "--model", type=str,
-	# 	default="mask_detector.model",
-	# 	help="path to trained face mask detector model")
-	# ap.add_argument("-c", "--confidence", type=float, default=0.5,
-	# 	help="minimum probability to filter weak detections")
-	# args = vars(ap.parse_args())
 
 
 	# load our serialized face detector model from disk
@@ -322,11 +311,7 @@ def mainc():
 		key = cv2.waitKey(1) & 0xFF
 		# if the `q` key was pressed, break from the loop
 
-	# if writer is None:
-	# 	fourcc = cv2.VideoWriter_fourcc(*"MJPG")
-	# 	writer = cv2.VideoWriter("output.mp4", fourcc, 30,
-	# 							 (frame.shape[1], frame.shape[0]), True)
-
+	
 		if key == ord("q"):
 			break
 
