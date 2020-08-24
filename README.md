@@ -2,7 +2,9 @@
 A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing to avoid the spread of the Covid 19 virus for TATA INNOVERSE SolverHunt 8.
 
 
-On August 10 2020 the result was declared and i was the winner of the competation TATA INNOVERSE SolverHunt 8.
+
+
+```On August 10 2020 the result was declared and i was the winner of the competation TATA INNOVERSE SolverHunt 8.```
 
 
 
@@ -253,7 +255,7 @@ On August 10 2020 the result was declared and i was the winner of the competatio
 
 
 <p align="center">
-    <img src="DEMO/CERTIFICATE/SolverHunt-8.jpg", width="400">
+    <img src="DEMO/CERTIFICATE/SolverHunt-8.jpg", width="800">
     <br>
     <sup><a href="https://tatainnoverse.com/solverhunt8/index.php"><strong>EYEXA</strong></a></sup>
 </p>
