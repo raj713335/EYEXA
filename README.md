@@ -241,14 +241,3 @@ The software first detect people with an off-the-shelf body pose detector and th
 
 
 
-
-
-# IMPORTANT UPDATE 
-On August 10 2020 the result was declared and i was the winner of the competation TATA INNOVERSE SolverHunt 8.
-
-
-<p align="center">
-    <img src="DEMO/CERTIFICATE/SolverHunt-8.jpg", width="800">
-    <br>
-    <sup><a href="https://tatainnoverse.com/solverhunt8/index.php"><strong>EYEXA</strong></a></sup>
-</p>
