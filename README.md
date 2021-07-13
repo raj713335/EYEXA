@@ -1,10 +1,7 @@
 # EYEXA
-A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing to avoid the spread of the Covid 19 virus for TATA INNOVERSE SolverHunt 8.
+A Computer Vision and Machine Learning Solution to implement Social Distancing and Mandatory Mask wearing to avoid the spread of the Covid 19 virus.
 
 
-
-
-```On August 10 2020 the result was declared and i was the winner of the competation TATA INNOVERSE SolverHunt 8.```
 
 
 
@@ -13,20 +10,16 @@ A Computer Vision and Machine Learning Solution to implement Social Distancing a
 
 
 ## DESCRIPTION
-EYEXA is a Combined Computer Vision and Machine Learning Application that recognises a person and checks if he is maintaining social distancing or not , and also checks if he is wearing a mask or not simultaneously. 
+EYEXA is a Combined Computer Vision and Machine Learning Application that recognises a person and checks if he is maintaining social distancing or not , and also checks if he is wearing a mask or not simultaneously.
 
-If any of the two above criteria fails then its alerts a user concerned with a warning sound , so the person violating can take necessary steps to minimise the spread of the virus. 
+If any of the two above criteria fails then it alerts a user concerned with a warning sound, so the person violating can take necessary steps to minimize the spread of the virus.
 
+EYEXA performs two primary functions using multi-threading, OpenCV and ML
 
-EYEXA performs two primary functions using multi threading , OpenCV and ML
-
-
-      1.  EYEXA uses yolov3 model to track a person and then does various internal computations to check all the person in the frame
-    are maintaining a proper social distancing norms or not . and display the number of person violating the social distancing norms.
-      
-      2.  EYEXA uses an custom trained model based on MobileNetV2 to train on images of person wearing/not_wearing a mask , and 
-    predict the person in the camera feed is wearing a mask or not . It also uses a res10_300x300_sad_iter_140000.caffemodel to focus
-    on person face during the prediction.
+  1.  EYEXA uses the yolov3 model to track a person and then does various internal computations to check all the people in the frame
+are maintaining proper social distancing norms or not. and display the number of people violating the social distancing norms.
+  
+  2.  EYEXA uses a custom trained model based on MobileNetV2 to train on images of the person wearing/not_wearing a mask, and predict the person in the camera feed is wearing a mask or not. It also uses a res10_300x300_sad_iter_140000.caffemodel to focus on a person's face during the prediction.
 
 
 
